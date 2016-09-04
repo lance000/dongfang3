@@ -1,0 +1,6 @@
+name: dongfang3
+version: 1
+cron:
+- description: cron_test
+  url: /index.wsgi
+  schedule: "*/1 * * * *"
